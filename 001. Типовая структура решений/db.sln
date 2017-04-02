@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tool", "tool", "{5A63824F-2525-48E4-A615-F563CF35C8E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "stat", "stat", "{412BB6A0-7B17-4373-8896-1C1EF36B631E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dic", "dic", "{69A552EE-297D-434F-A505-AC0B2109F10B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sec", "sec", "{1B587CB5-107F-45E8-BAFE-989E3446A898}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "etl", "etl", "{8BCDC7BE-B2BA-4BEB-93AD-D0D8DE656EB4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{2E5520C1-8284-4466-A66C-55CF57A595EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "rpt", "rpt", "{4DA9AC47-923D-4988-BAEB-F2E4E8864BAA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "job", "job", "{28A10EE3-3CCB-4C44-9383-89B9AA0B057A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "rtp", "rtp", "{32842392-1723-4C29-B666-F08C04F10946}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dwh", "dwh", "{88145519-C39D-4E11-BA68-C3092A2B75E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ts", "ts", "{828F0373-9575-4FC9-B494-2E434447855C}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
